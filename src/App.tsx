@@ -26,7 +26,7 @@ function App() {
     {
       title: "Skincare Website Redesign",
       
-      image: "https://img.freepik.com/free-psd/professional-laser-clinic-landing-page-template_23-2150274377.jpg?t=st=1737995631~exp=1737999231~hmac=b448d2d148d227427d4bc94274ddcb82dbe2d35f42fd82b7a9ae301b711740a0&w=1380",
+      image: "https://i.ibb.co/KjTpcc6v/skincare.png",
       tags: ["UX Design", "Web", "Retail"],
       link: "https://www.behance.net/gallery/217942455/SkinCare-Clinic-Landing-Page",
     },
