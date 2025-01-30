@@ -187,17 +187,17 @@ function App() {
             seamless digital experiences for SaaS products, web apps, and
             websites.
           </p>
-          <div className="flex gap-4">
+          <div className="flex gap-2">
             <a
               href="#work"
-              className="group px-6 py-3 bg-white text-gray-900 rounded-full hover:bg-gray-100"
+              className="group px-3 py-3 bg-white text-gray-900 rounded-full hover:bg-gray-100"
             >
               View Work
               <ArrowUpRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
             </a>
             <a
               href="#contact"
-              className="px-6 py-3 border border-gray-800 rounded-full hover:bg-gray-900"
+              className="px-3 py-3 border border-gray-800 rounded-full hover:bg-gray-900"
             >
               Contact Me
             </a>
