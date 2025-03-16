@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Heroimg from "./images/Heroimg.png";
 
 import {
   Menu,
@@ -23,6 +24,13 @@ function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const projects = [
+    {
+      title: "Life Insurance",
+      
+      image: {Heroimg},
+      tags: ["UX Design", "Web", "Retail"],
+      link: "https://www.behance.net/gallery/221494181/Life-Insurance-Landing-Page",
+    },
     {
       title: "Skincare Website Redesign",
       
